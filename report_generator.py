@@ -2,6 +2,9 @@ import PySimpleGUI as sg
 import mysql.connector
 import pandas as pd
 import os
+import openai
+
+openai.api_key = "your_openai_api_key"
 
 #gui window
 sg.theme('SandyBeach')
