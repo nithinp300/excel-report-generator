@@ -1,5 +1,5 @@
 # excel-report-generator
-This program takes SQL Query as input from user and outputss the result to an Excel file
+This program takes SQL Query as input from user and outputs the result to an Excel file
 
 
 ## features
